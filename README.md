@@ -17,29 +17,29 @@ features, including age, sex, chest pain type, resting blood pressure, cholester
 Dataset & Code:
 
 ## Dataset Attributes:
-• Age: Age of patients (Years)
-• Sex: Sex of patients (M: Male, F: Female)
-• ChestPainType: chest pain types are classified as follows:
-• TA: Typical Angina
-• ATA: Atypical Angina
-
-• NAP: Non-Anginal Pain
-• ASY: Asymptomatic
-• RestingBP: resting blood pressure (mm Hg)
-• Cholesterol: serum cholesterol (mm/dl)
-• FastingBS: fasting blood sugar (mg/dl)
-• RestingECG: resting electron cardiogram result:
-• Normal: Normal
-• ST: having ST-T wave abnormality (T wave inversions and/or ST elevation
-and/or depression ST elevation or depression of > 0.05 mv
-• LVH: showing probable or definite left ventricular hypertrophy by Estes’ criteria
-• MaxHR: maximum heart rate achieved (numeric value between 60 and 202)
-• ExerciseAngina: exercise-induced angina (Y: Yes; N: No)
-• Oldpeak: numeric value measured in depression
-• ST_Slope: the slope of the peak exercise ST segment
-• Up: up sloping
-• Flat: flat
-• Down: down sloping
-• HeartDisease: output class
-• 1: heart disease
-• 0: Normal
+<ul>
+  <li>Age: Age of patients (Years)</li>
+<li> Sex of patients (M: Male, F: Female)</li>
+<li>ChestPainType: chest pain types are classified as follows:</li>
+</li>TA: Typical Angina</li>
+ <li>ATA: Atypical Angina</li>
+<li>NAP: Non-Anginal Pain</li>
+<li>ASY: Asymptomatic</li>
+<li>RestingBP: resting blood pressure (mm Hg)</li>
+<li>Cholesterol: serum cholesterol (mm/dl)</li>
+<li>FastingBS: fasting blood sugar (mg/dl)</li>
+<li>RestingECG: resting electron cardiogram result:</li>
+<li>Normal: Normal</li>
+<li>ST: having ST-T wave abnormality (T wave inversions and/or ST elevation
+and/or depression ST elevation or depression of > 0.05 mv</li>
+<li>LVH: showing probable or definite left ventricular hypertrophy by Estes’ criteria</li>
+<li>MaxHR: maximum heart rate achieved (numeric value between 60 and 202)</li>
+<li>ExerciseAngina: exercise-induced angina (Y: Yes; N: No)</li>
+<li>Oldpeak: numeric value measured in depression</li>
+<li>ST_Slope: the slope of the peak exercise ST segment</li>
+<li>Up: up sloping</li>
+<li>Flat: flat</li>
+<li>Down: down sloping</li>
+<li>HeartDisease: output class</li>
+<li>1: heart disease</li>
+<li>0: Normal</li>
